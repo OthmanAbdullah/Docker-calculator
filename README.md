@@ -29,7 +29,7 @@
  <p>Once you have the above tools ready, do the following steps:</p>  
     <ol>
         <li>Start by running the applicatoin using nodejs: <code>node app.js</code></li>
-        <li>You can use nodemon if you want requests, the port is <strong> 5000<strong>, <br>it can be changed, just modify the port var in the code if you want to.</li>
+        <li>You can use nodemon if you want requests, the port is <strong> 5000<strong>, <br>it can be changed, just modify the port var in the js if you want to.</li>
 </ol>
             
 <h3><em> Dockerization steps:</em> </h3>            
