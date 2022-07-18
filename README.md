@@ -1,2 +1,2 @@
 # Docker-calculator
-<strong> About the project:</strong> 
+<h2>About the project:</h2>> 
