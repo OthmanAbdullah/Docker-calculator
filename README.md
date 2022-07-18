@@ -22,13 +22,13 @@
 
 <h3><em> Building steps:</em> </h3>
 <ol>
-  <lh>NPM installation: https://www.npmjs.com/get-npmr</lh>
+  <li>NPM installation: https://www.npmjs.com/get-npmr</lh>
   <li>Get NodeJS: https://nodejs.org/en/download/</li>
   <li>To simplify your life, yu can use Nodemon: https://nodemon.io/</li>  
   <p>Once you have the above tools ready, do the following steps:</p>  
     <ol>
-        <lh>Start by running the applicatoin using nodejs: <code>node app.js</code></lh>
-        <lh>You can use nodemon if you want requests, the port is <strong> 5000<strong>, it can be changed, just modify the port var in the code if you want to.</lh>
+        <li>Start by running the applicatoin using nodejs: <code>node app.js</code></li>
+        <li>You can use nodemon if you want requests, the port is <strong> 5000<strong>, <br>it can be changed, just modify the port var in the code if you want to.</li>
     </ol>
 </ol>
 
