@@ -1,2 +1,2 @@
 # Docker-calculator
-This is  a simple calculator with docker, the goal from this project is to understand the main concepts of docker 
+A simple calculator that is built in using node js and express frame work
