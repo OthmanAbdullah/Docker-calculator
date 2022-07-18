@@ -29,20 +29,20 @@
  <p>Once you have the above tools ready, do the following steps:</p>  
     <ol>
         <li>Start by running the applicatoin using nodejs: <code>node app.js</code></li>
-        <li>You can use nodemon if you want requests, the port is <strong> 5000<strong>, <br>it can be changed, just modify the port var in the js if you want to.</li>
+        <li>You can use nodemon if you want requests, the port is <strong> 5000<strong>, <br>it can be changed, just modify the <strong>PORT</strong> var in the code if you want to.</li>
 </ol>
             
 <h3><em> Dockerization steps:</em> </h3>            
      - You will need to install docker to your local matchine in order to be able to run/containarize/create images/other docker-realted usage .<br>
      - check the following link to download/learn more about docker: https://docs.docker.com/ .<br> 
      - Once you have docker installed, you can proceed to the following steps to dockerize the application: <br>
-<pre><ul> <li>Run the following commands:</li> </ul>  
+<ul> <li>Run the following commands:</li> </ul>  
             <ol> 
                 <li> <code>sudo su</code> - will put you into a root  </li> 
                 <li> <code>systemctl start docker</code> -  start the Docker daemon</li> 
                 <li> <code>systemctl enable docker</code> </li>
                 - You are ready to run the docker commands now:
-                <li>
+                
              </ol>
                 <strong> IMPORTAND NOTES ABOUT THE FOLLOWING COMMANDS : THE TEXT IN THE [] IS A MUST TO BE INCLUDED WHEN EXCUTING THE COMMAND<br>
 					     THE TEXT IN THE () IS OPTIONAL. </strong>>
