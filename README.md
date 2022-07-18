@@ -5,4 +5,8 @@
 </p>
     </div>
 <h3><em>Tools used for the project:</em> </h3>
-
+<ul>
+  <li>Node js</li>
+  <li>Express js frame work</li>
+  <li>Thunder client (optional, just for the use of testing, sending some requests and see the responses)</li>
+</ul>
