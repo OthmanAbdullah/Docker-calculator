@@ -16,8 +16,19 @@
 <h3><em>Goal from the poject:</em> </h3>
 <p>The main goal from creating this project is just to illustrate how api-based applications work, understanding some of the main 
     concepts of express js, APIs, node js , etc.<br>
-    <strong>more importantly, I created this project to learn and practice docker</strong>, i.e  how to creates images, containarazion,
+    <strong>More importantly, I created this project to learn and practice docker</strong>, i.e  how to creates images, containarazion,
     docker-compress,etc.
 </p>
 
+<h3><em> Building steps:</em> </h3>
+<ol>
+  <lh>NPM installation: https://www.npmjs.com/get-npmr</lh>
+  <li>Get NodeJS: https://nodejs.org/en/download/</li>
+  <li>To simplify your life, yu can use Nodemon: https://nodemon.io/</li>  
+  <p>Once you have the above tools ready, do the following steps:</p>  
+    <ol>
+        <lh>Start by running the applicatoin using nodejs: <code>node app.js</code></lh>
+        <lh>You can use nodemon if you want requests, the port is <strong> 5000<strong>, it can be changed, just modify the port var in the code if you want to.</lh>
+    </ol>
+</ol>
 
