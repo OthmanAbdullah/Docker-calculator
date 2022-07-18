@@ -44,7 +44,7 @@
                 - You are ready to run the docker commands now:
                 
              </ol>
-                <strong> IMPORTAND NOTES ABOUT THE FOLLOWING COMMANDS : THE TEXT IN THE [] IS A MUST TO BE INCLUDED WHEN EXCUTING THE COMMAND<br>
+                <strong> IMPORTAND NOTES ABOUT THE FOLLOWING COMMANDS : THE TEXT IN THE [] IS A MUST TO BE INCLUDED WHEN EXCUTING THE COMMAND
 					     THE TEXT IN THE () IS OPTIONAL. </strong>>
              docker images -> used to list the images and their info that we have in our pc/os.
             <ul> 
