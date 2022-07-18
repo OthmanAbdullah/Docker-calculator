@@ -30,6 +30,20 @@
     <ol>
         <li>Start by running the applicatoin using nodejs: <code>node app.js</code></li>
         <li>You can use nodemon if you want requests, the port is <strong> 5000<strong>, <br>it can be changed, just modify the port var in the code if you want to.</li>
-
 </ol>
+            
+<h3><em> Dockerization steps:</em> </h3>            
+    <bre>- You will need to install docker to your local matchine in order to be able to run/containarize/create images/other docker-realted usage  
+     - check the following link to download/learn more about docker: https://docs.docker.com/
+     - Once you have docker installed, you can proceed to the following steps to doc
+            
+    </bre>
+            <ol>
+            You will need to install docker to your local matchine in order to be able to 0
+            
+            </ol>           
+            
+            
+            
+            
 
