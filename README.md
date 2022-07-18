@@ -33,9 +33,9 @@
 </ol>
             
 <h3><em> Dockerization steps:</em> </h3>            
-     - You will need to install docker to your local matchine in order to be able to run/containarize/create images/other docker-realted usage  
-     - check the following link to download/learn more about docker: https://docs.docker.com/<br>
-     - Once you have docker installed, you can proceed to the following steps to doc
+     - You will need to install docker to your local matchine in order to be able to run/containarize/create images/other docker-realted usage .<br>
+     - check the following link to download/learn more about docker: https://docs.docker.com/ .<br> 
+     - Once you have docker installed, you can proceed to the following steps to doc.
             
 
             
